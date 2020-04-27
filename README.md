@@ -1,2 +1,2 @@
 # SASS
-test repo
+test repo for git commds demonstration
